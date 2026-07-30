@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/* All odd numbered elements */
+.odd {
+    background-color: hsl(350, 80%, 85%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Second element */
+#no2 {
+    color: hsl(240, 90%, 50%);
+    font-size: 36px
+}
+
+/* Third element */
+.odd.cooler {
+    font-size: 24px;
+}
+
+/* Fourth element */
+#no4 {
+    background-color: hsl(130, 80%, 70%);
+    font-size: 24px;
+    font-weight: 700;
+}
